@@ -1,0 +1,22 @@
+{
+    "response": {
+        "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/32302fde539b4a627536dd23a2912754.jpeg?lk3s=a5d48078&nonce=29730&refresh_token=b972dd865d4f0ab290a1ffffb2e5a5ab&x-expires=1726304400&x-signature=HbeTkK5hnbAxZFhst%2Ft%2BKfoilW0%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/32302fde539b4a627536dd23a2912754.jpeg?lk3s=a5d48078&nonce=21054&refresh_token=eb8ed3f8f1c90110a5af1c12d9b69a02&x-expires=1726304400&x-signature=FugjxWwSY9RsR1a1udmo9AibgpA%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/32302fde539b4a627536dd23a2912754.jpeg?lk3s=a5d48078&nonce=58337&refresh_token=d531ed275a8a869a85db9ede86d041bd&x-expires=1726304400&x-signature=UU1L5FGa%2BtS4j0EEKQEc31TexxM%3D&shp=a5d48078&shcp=81f88b70",
+        "bio": "No bio yet",
+        "createTime": 1622018354,
+        "followerCount": 379,
+        "followingCount": 54,
+        "friendCount": 11,
+        "likes": 124,
+        "nickname": "Val",
+        "privateAccount": false,
+        "region": "US",
+        "roomId": "",
+        "user_id": "6966514120083735553",
+        "username": "val",
+        "verified": false,
+        "videoCount": 9
+    },
+    "status": "success"
+}
